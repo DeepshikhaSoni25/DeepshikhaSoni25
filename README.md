@@ -40,9 +40,7 @@ Jun 2019 – Dec 2022
 -	Developed and executed ETL processes, achieving a 98% data loading accuracy rate by creating and executing complex ETL workflows, reports using SAP Business Warehousing & Business          Intelligence
 -	⁠Collaborated closely with client SMEs, effectively communicating complex concepts by translating business needs into precise technical design documents, leading to a notable 15%            reduction in implementation errors
 
-
-###Data Engineer Intern
-
+### Data Engineer Intern
 **Eicher Tractors, Bhopal, India** 
 Jun 2018 – Aug 2018
   
