@@ -4,7 +4,8 @@
 - Email: [soni.deeps@northeastern.edu](mailto:soni.deeps@northeastern.edu)
 - Phone: +1(857) 230-1038
 - LinkedIn: ![LinkedIn Badge](https://img.shields.io/badge/-Deepshikha%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepshikhasoni-2511)
-- Github: ![GitHub Badge](https://img.shields.io/badge/-DeepshikhaSoni-black?style=flat-square&logo=github&link=https://github.com/DeepshikhaSoni)
+- Github: [![Deepshikha's GitHub](https://img.shields.io/github/followers/DeepshikhaSoni25?label=follow&style=social)](https://github.com/DeepshikhaSoni25)
+
 
 ## Summary
 A data analytics enthusiast with a passion for transforming complex datasets into actionable insights. Based in Boston and currently pursuing my Master's in Data Analytics Engineering at Northeastern University, I have a rich background in mechanical engineering and a profound knack for data engineering and analysis.
