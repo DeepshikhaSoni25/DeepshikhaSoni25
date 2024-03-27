@@ -41,7 +41,7 @@ Jun 2019 – Dec 2022
 -	⁠Collaborated closely with client SMEs, effectively communicating complex concepts by translating business needs into precise technical design documents, leading to a notable 15%            reduction in implementation errors
 
 
-###Data Engineer Intern**
+###Data Engineer Intern
 **Eicher Tractors, Bhopal, India** 
 Jun 2018 – Aug 2018
   
