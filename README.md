@@ -4,7 +4,7 @@
 - Email: [soni.deeps@northeastern.edu](mailto:soni.deeps@northeastern.edu)
 - Phone: +1(857) 230-1038
 - LinkedIn: ![LinkedIn Badge](https://img.shields.io/badge/-Deepshikha%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepshikhasoni-2511)
-- Github: [DeepshikhaSoniGithub](https://github.com/DeepshikhsSoni25)
+- Github: [DeepshikhaSoniGithub](https://github.com/DeepshikhaSoni25)
 
 
 ## Summary
