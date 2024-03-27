@@ -4,7 +4,7 @@
 - Email: [soni.deeps@northeastern.edu](mailto:soni.deeps@northeastern.edu)
 - Phone: +1(857) 230-1038
 - LinkedIn: ![LinkedIn Badge](https://img.shields.io/badge/-Deepshikha%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepshikhasoni-2511)
-- Github: [![Deepshikha's GitHub](https://img.shields.io/github/followers/DeepshikhaSoni25?label=follow&style=social)](https://github.com/DeepshikhaSoni25)
+- Github: [DeepshikhaSoniGithub](https://github.com/DeepshikhsSoni25)
 
 
 ## Summary
@@ -30,8 +30,9 @@ A data analytics enthusiast with a passion for transforming complex datasets int
 
 ## Work Experience
 
-- **Data Analyst**
-  **Tata Consultancy Services, Nagpur, India** (Jun 2019 – Dec 2022)
+### Data Analyst, System Engineer
+**Tata Consultancy Services, India**
+Jun 2019 – Dec 2022
   
 -	Analyzed and interpreted large dataset of 4.5 million records within the Automotive In-Vehicle Infotainment domain at Nissan Ltd., using SQL and Python, resolving over 100+ critical        issues through root cause analysis and reporting with JIRA
 -	Developed 30+ dynamic dashboards and reports using Tableau, Power BI, and data-driven automation tools for tracking key business metrics, employing BI and data analysis techniques for      debugging, modeling, forecasting, and reporting.
@@ -40,8 +41,9 @@ A data analytics enthusiast with a passion for transforming complex datasets int
 -	⁠Collaborated closely with client SMEs, effectively communicating complex concepts by translating business needs into precise technical design documents, leading to a notable 15%            reduction in implementation errors
 
 
-- **Data Engineer Intern**
-- **Eicher Tractors, Bhopal, India** (Jun 2018 – Aug 2018)
+###Data Engineer Intern**
+**Eicher Tractors, Bhopal, India** 
+Jun 2018 – Aug 2018
   
   - Refined data analysis for tractor sales and competitive intelligence projects using SQL and Tableau.
 
